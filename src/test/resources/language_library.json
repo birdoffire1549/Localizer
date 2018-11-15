@@ -1,0 +1,14 @@
+{
+	"zh" : {
+		"Hello how are you today?" : "你好，今天好嗎？"
+	},
+	"sv" : {
+		"Hello how are you today?" : "Hej hur mår du idag?"
+	},
+	"fr" : {
+		"Hello how are you today?" : "Bonjour comment vas tu aujourd'hui?"
+	},
+	"ja" : {
+		"Hello how are you today?" : "今日こんにちは。"
+	}
+}
