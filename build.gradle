@@ -61,6 +61,11 @@ dependencies {
 	testCompile group: 'junit', name: 'junit', version: '4.+' // Used for Unit tests...
 }
 
+task exportVersion {
+    File file = new File("appVersion.dat")
+    file.write version
+}
+
 /* ***************************************************************** *
  * Defines the build parameters specific to the building of the JAR. *
  * ***************************************************************** */
