@@ -9,7 +9,7 @@ plugins {
 /* ****************************** *
  * Custom Variables defined below *
  * ****************************** */
-version = "0.0.1"
+version = "1.0.0"
 
 /* ****************************** *
  * Application Definition Section *
