@@ -1,14 +1,15 @@
 .*
+
 !.gitignore
+!.env
+!.github
+
 ehthumbs.db
 Thumbs.db
 
-# IDE files #
-#############
 nbproject
 composer.lock
 
-# project specific
 build/
 bin/
 *.swp
