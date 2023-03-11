@@ -98,7 +98,7 @@ publishing {
         maven {
             name = "GitHubPackages"
             url = "https://maven.pkg.github.com/birdoffire1549/DuplicateFileLocator"
-            version  = appVersion
+            version  = version
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
